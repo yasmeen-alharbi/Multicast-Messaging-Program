@@ -1,8 +1,3 @@
-// Yasmeen Al-Harbi & Jordyn Espenant
-// NSIDs: yaa300 & jde843
-// CMPT 332 Section 1
-// Assignment 4
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
