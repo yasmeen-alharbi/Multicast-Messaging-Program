@@ -13,6 +13,7 @@
     - You can use port 30421 (as specified by receiver port in server)
 
 <h2 align="left"> Overview: </h2>
+    Implemented based off examples from: https://beej.us/guide/bgnet/
 
 <h3 align="left"> server.c: </h3>
 
