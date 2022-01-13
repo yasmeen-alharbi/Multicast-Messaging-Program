@@ -1,7 +1,7 @@
 <h1 align="center"> Multicast-Messaging-Program </h1>
-A basic server with sender and receiver clients using TCP.
+<h3 align="center"> A basic server with sender and receiver clients using TCP. </h3>
 
-TO RUN:
+<h2 align="left"> TO RUN: </h2>
 
 - type 'make'
 - set up server by typing 'server'
