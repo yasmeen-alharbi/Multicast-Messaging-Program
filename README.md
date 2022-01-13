@@ -1,4 +1,4 @@
-# Multicast-Messaging-Program
+<h1 align="center"> Multicast-Messaging-Program </h1>
 A basic server with sender and receiver clients using TCP.
 
 TO RUN:
